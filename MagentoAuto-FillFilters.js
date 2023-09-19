@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Magento2 Auto-Fill Filters
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Auto-fill purchase date filter and disable search bar
-// @author       Vous
-// @match        https://prod-admin.easypara.fr/admin_easy/sales/order/index/*
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
